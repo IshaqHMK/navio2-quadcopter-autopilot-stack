@@ -182,7 +182,7 @@ Navio2-based quadcopter control stack for Raspberry Pi 4. Frame: F450. Motors: T
   - Image 2: `IMAGE_2_URL`
   - Image 3: `IMAGE_3_URL`
 - Videos:
-  - Video 1: `https://drive.google.com/file/d/1m6zLk8e4WNr0Yb5EV9sNFM36eDSqVFJc/view?usp=drive_link`
+  - Video 1: https://drive.google.com/file/d/1m6zLk8e4WNr0Yb5EV9sNFM36eDSqVFJc/view?usp=drive_link
   - Video 2: `VIDEO_2_URL`
   - Video 3: `VIDEO_3_URL`
 
