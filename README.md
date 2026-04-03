@@ -181,50 +181,30 @@ Navio2-based quadcopter control stack for Raspberry Pi 4. Frame: F450. Motors: T
   - Image 1: `IMAGE_1_URL`
   - Image 2: `IMAGE_2_URL`
   - Image 3: `IMAGE_3_URL`
-## Videos
-
-<table>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/1m6zLk8e4WNr0Yb5EV9sNFM36eDSqVFJc/view?usp=drive_link"><strong>Video 01</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1-DwO0pSG6N2rxwpzc_bYwCJhuJMCz2iv/view?usp=drive_link"><strong>Video 02</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1_UtA53umFaUPa3Ef8LycNn_B0ixBXaeG/view?usp=drive_link"><strong>Video 03</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/1GuiGDwBA_pGXHcUOS1R4ZNg-6ayjsLND/view?usp=drive_link"><strong>Video 04</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1FOcf48VQ6SvyTpcAsYYdn-SPGlGK-P4G/view?usp=drive_link"><strong>Video 05</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1eE3SAAgT7mw0w44Cm_I-mvNbpB1uYKOr/view?usp=drive_link"><strong>Video 06</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/1LTfeR1q7e8OAOB7zCbZALinbk_cYMXso/view?usp=drive_link"><strong>Video 07</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1WBEHpZECCosCl6fnsf1kl00DqSJbp-9y/view?usp=drive_link"><strong>Video 08</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/14Giq6HnTr8gcStCuffEzZtVYF-03usNV/view?usp=drive_link"><strong>Video 09</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/10nsSNsnZRR5aaMv4lSrMSXTieWeMQNby/view?usp=drive_link"><strong>Video 10</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1QAq1CJqqXnH1_ONFgpo28meWw832BTf6/view?usp=drive_link"><strong>Video 11</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1ZjSsAwQEI08OegwdZ5ugacam3DaA0q2g/view?usp=drive_link"><strong>Video 12</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/1ofQ7EhoT0mFL-erZWOfGX11dwLSURO14/view?usp=drive_link"><strong>Video 13</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1QLx3SDqgCXOgRvZfNTqbteGT20oH47AP/view?usp=drive_link"><strong>Video 14</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1fajaYwOeBE3WHIoaRCp2rJnPTWS3FafJ/view?usp=drive_link"><strong>Video 15</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/1Dpoy8_KcvZBZ1QRdoemUUanRlpIeR9OC/view?usp=drive_link"><strong>Video 16</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1cA14NYBiMUNskDKTdehusfvDxKaNckQ9/view?usp=drive_link"><strong>Video 17</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1_NHH80-HGDXAJ1z_HrlcHixh8P6WLqem/view?usp=drive_link"><strong>Video 18</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/1_ORT8_9sMSYk6ko5o1Bj1ep981NEPeza/view?usp=drive_link"><strong>Video 19</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1tdh4skaiWYUrgs3BgoZ7NfMz0udEVWBC/view?usp=drive_link"><strong>Video 20</strong></a></td>
-    <td align="center"><a href="https://drive.google.com/file/d/1tcroAtBSk-47bUmRoqrA22WRtUeqr6RU/view?usp=drive_link"><strong>Video 21</strong></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://drive.google.com/file/d/1tY69b-zUQwbY8qIGgO5v8cR4jddGZk_c/view?usp=drive_link"><strong>Video 22</strong></a></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+ 
+-  Videos
+  - Video 1: https://drive.google.com/file/d/1m6zLk8e4WNr0Yb5EV9sNFM36eDSqVFJc/view?usp=drive_link
+  - Video 2: https://drive.google.com/file/d/1-DwO0pSG6N2rxwpzc_bYwCJhuJMCz2iv/view?usp=drive_link
+  - Video 3: https://drive.google.com/file/d/1_UtA53umFaUPa3Ef8LycNn_B0ixBXaeG/view?usp=drive_link
+  - Video 4: https://drive.google.com/file/d/1GuiGDwBA_pGXHcUOS1R4ZNg-6ayjsLND/view?usp=drive_link
+  - Video 5: https://drive.google.com/file/d/1FOcf48VQ6SvyTpcAsYYdn-SPGlGK-P4G/view?usp=drive_link
+  - Video 6: https://drive.google.com/file/d/1eE3SAAgT7mw0w44Cm_I-mvNbpB1uYKOr/view?usp=drive_link
+  - Video 7: https://drive.google.com/file/d/1LTfeR1q7e8OAOB7zCbZALinbk_cYMXso/view?usp=drive_link
+  - Video 8: https://drive.google.com/file/d/1WBEHpZECCosCl6fnsf1kl00DqSJbp-9y/view?usp=drive_link
+  - Video 9: https://drive.google.com/file/d/14Giq6HnTr8gcStCuffEzZtVYF-03usNV/view?usp=drive_link
+  - Video 10: https://drive.google.com/file/d/10nsSNsnZRR5aaMv4lSrMSXTieWeMQNby/view?usp=drive_link
+  - Video 11: https://drive.google.com/file/d/1QAq1CJqqXnH1_ONFgpo28meWw832BTf6/view?usp=drive_link
+  - Video 12: https://drive.google.com/file/d/1ZjSsAwQEI08OegwdZ5ugacam3DaA0q2g/view?usp=drive_link
+  - Video 13: https://drive.google.com/file/d/1ofQ7EhoT0mFL-erZWOfGX11dwLSURO14/view?usp=drive_link
+  - Video 14: https://drive.google.com/file/d/1QLx3SDqgCXOgRvZfNTqbteGT20oH47AP/view?usp=drive_link
+  - Video 15: https://drive.google.com/file/d/1fajaYwOeBE3WHIoaRCp2rJnPTWS3FafJ/view?usp=drive_link
+  - Video 16: https://drive.google.com/file/d/1Dpoy8_KcvZBZ1QRdoemUUanRlpIeR9OC/view?usp=drive_link
+  - Video 17: https://drive.google.com/file/d/1cA14NYBiMUNskDKTdehusfvDxKaNckQ9/view?usp=drive_link
+  - Video 18: https://drive.google.com/file/d/1_NHH80-HGDXAJ1z_HrlcHixh8P6WLqem/view?usp=drive_link
+  - Video 19: https://drive.google.com/file/d/1_ORT8_9sMSYk6ko5o1Bj1ep981NEPeza/view?usp=drive_link
+  - Video 20: https://drive.google.com/file/d/1tdh4skaiWYUrgs3BgoZ7NfMz0udEVWBC/view?usp=drive_link
+  - Video 21: https://drive.google.com/file/d/1tcroAtBSk-47bUmRoqrA22WRtUeqr6RU/view?usp=drive_link
+  - Video 22: https://drive.google.com/file/d/1tY69b-zUQwbY8qIGgO5v8cR4jddGZk_c/view?usp=drive_link
 
 **Academic Use, Data, Collaboration**
 - This repository is for academic use.
