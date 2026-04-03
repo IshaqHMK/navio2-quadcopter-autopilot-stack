@@ -210,5 +210,6 @@ This repo contains flight-control experiments, sensor drivers, IMU filters, logg
   - Video 22: https://drive.google.com/file/d/1tY69b-zUQwbY8qIGgO5v8cR4jddGZk_c/view?usp=drive_link
 
 **Academic Use, Data, Collaboration**
-- This repository is for academic use.
-- For datasets, collaborations, and updated versions, contact: `ishaq.hmk@gmail.com`
+- This repository reflects the version used as of August 2025.
+- It is shared for academic and research use.
+- For updated versions, datasets, or collaboration inquiries, contact: `ishaq.hmk@gmail.com`
