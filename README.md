@@ -15,9 +15,6 @@ This repo contains flight-control experiments, sensor drivers, IMU filters, logg
 - GPS: u-blox (SPI)
 - RC input, ADC, Navio2 RGB LEDs
 
-**Wiring Pinouts**
-- Not documented here yet. If you want this added, provide your exact wiring and I will include it.
-
 **Dependencies**
 - Python 3.7+
 - numpy, scipy, matplotlib
