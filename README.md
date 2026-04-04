@@ -181,11 +181,26 @@ This repo contains flight-control experiments, sensor drivers, IMU filters, logg
 
 **Media**
 - Setup photos:
-  - Image 1: ![Image 1](platform/IMG_9798.png)
-  - Image 2: ![Image 2](platform/IMG_9800.png)
-  - Image 3: ![Image 3](platform/IMG_9801.png)
-  - Image 4: ![Image 4](platform/IMG_9804.png)
- 
+  - Image 1:
+    <p align="center">
+      <img src="platform/IMG_9798.png" alt="Image 1" width="450">
+    </p>
+
+  - Image 2:
+    <p align="center">
+      <img src="platform/IMG_9800.png" alt="Image 2" width="450">
+    </p>
+
+  - Image 3:
+    <p align="center">
+      <img src="platform/IMG_9801.png" alt="Image 3" width="450">
+    </p>
+
+  - Image 4:
+    <p align="center">
+      <img src="platform/IMG_9804.png" alt="Image 4" width="450">
+    </p>
+    
 -  Videos
   - Video 1: https://drive.google.com/file/d/1m6zLk8e4WNr0Yb5EV9sNFM36eDSqVFJc/view?usp=drive_link
   - Video 2: https://drive.google.com/file/d/1-DwO0pSG6N2rxwpzc_bYwCJhuJMCz2iv/view?usp=drive_link
