@@ -6,7 +6,7 @@ This repo contains flight-control experiments, sensor drivers, IMU filters, logg
 
 ![Image main](platform/IMG_5506.jpg)
 
-  - 
+
 **Scope**
 - Real hardware control on Navio2 + Raspberry Pi 4.
 - Multiple controller/estimator iterations stored as versioned scripts in `main/` and `tests/`.
