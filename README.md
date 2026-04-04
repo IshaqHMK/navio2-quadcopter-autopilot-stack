@@ -210,6 +210,7 @@ This repo contains flight-control experiments, sensor drivers, IMU filters, logg
   - Video 22: https://drive.google.com/file/d/1tY69b-zUQwbY8qIGgO5v8cR4jddGZk_c/view?usp=drive_link
 
 **Academic Use, Data, Collaboration**
-- This repository reflects the version used as of August 2025.
-- It is shared for academic and research use.
-- For updated versions, datasets, or collaboration inquiries, contact: `ishaq.hmk@gmail.com`
+* This repository reflects the version used as of August 2025.
+* It is shared for educational and academic research use to help others working on similar UAV platforms.
+* I later transitioned to a Pixhawk and Raspberry Pi based platform due to limitations of the Navio2 and Raspberry Pi setup.
+* For updated versions, datasets, further technical details, or collaboration inquiries, contact: `ishaq.hmk@gmail.com`
