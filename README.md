@@ -81,26 +81,26 @@ This repo contains flight-control experiments, sensor drivers, IMU filters, logg
 | `main/main_v9.py` | Added CPU tools and idle PWM handling. |
 | `main/main_v10.py` | Yaw PID fix (omega_squared). |
 | `main/main_v11.py` | Motor warm-up version. |
-| `main/main_v12.py` | Motor warm-up version. |
-| `main/main_v13.py` | Motor warm-up version. |
-| `main/main_v14.py` | Motor warm-up version. |
-| `main/main_v15.py` | Motor warm-up version. |
-| `main/main_v16.py` | Motor warm-up version. |
-| `main/main_v17.py` | Motor warm-up version. |
-| `main/main_v18.py` | Motor warm-up version. |
+| `main/main_v12.py` | Motor warm-up version (debugging 1). |
+| `main/main_v13.py` | Motor warm-up version (debugging 2). |
+| `main/main_v14.py` | Motor warm-up version (debugging 3). |
+| `main/main_v15.py` | Motor warm-up version (debugging 4). |
+| `main/main_v16.py` | Motor warm-up version (debugging 5). |
+| `main/main_v17.py` | Motor warm-up version (debugging 6). |
+| `main/main_v18.py` | Motor warm-up version (finalized). |
 | `main/main_v19.py` | Adaptive PID. |
-| `main/main_v20.py` | Adaptive PID. |
+| `main/main_v20.py` | Adaptive PID (debugging). |
 | `main/main_v21.py` | Copy of v18 without Adaptive PID (header says version 18 main). |
 | `main/main_v22.py` | EKF implementation. |
-| `main/main_v23.py` | Copy of v21. |
-| `main/main_v24.py` | Copy of v21. |
-| `main/main_v25.py` | Copy of v21. |
-| `main/main_v26.py` | Copy of v21. |
+| `main/main_v23.py` | Copy of v21 (debugging 1). | 
+| `main/main_v24.py` | Copy of v21 (debugging 2). |
+| `main/main_v25.py` | Copy of v21 (debugging 3). |
+| `main/main_v26.py` | Copy of v21 (debugging 4). |
 | `main/main_v27.py` | Replaces Madgwick with custom EKF; adaptive gradient. |
-| `main/main_v28_safe_test.py` | Safe test from v27 (0 deg attitude). |
-| `main/main_v28_safe_test_imp_v1.py` | Safe test variant of v27. |
-| `main/main_v28_safe_test_imp_v2.py` | Safe test variant of v27. |
-| `main/main_v28_safe_test_imp_v3.py` | Safe test variant of v27. |
+| `main/main_v28_safe_test.py` | Safe test from v27 (0 deg attitude, best performance using Navio2). |
+| `main/main_v28_safe_test_imp_v1.py` | Safe test variant of v27 (debugging). |
+| `main/main_v28_safe_test_imp_v2.py` | Safe test variant of v27 (debugging). |
+| `main/main_v28_safe_test_imp_v3.py` | Safe test variant of v27 (debugging). |
 | `main/main_v29.py` | v27 with sinusoidal 1 to 5 deg attitude safe test. |
 | `main/main_v30.py` | v29 + adaptive controller for phi only. |
 | `main/main_v32.py` | v30 + adaptive controller for phi/theta/psi. |
