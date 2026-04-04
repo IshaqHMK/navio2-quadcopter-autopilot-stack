@@ -4,7 +4,7 @@ Navio2-based quadcopter control stack for Raspberry Pi 4.
 Frame: F450. Motors: T-Motor MN3508 (KV). 
 This repo contains flight-control experiments, sensor drivers, IMU filters, logging, and analysis tools.
 
-![Image 1](platform/IMG_9798.png)
+![Image main](platform/IMG_5506.jpg)
 
   - 
 **Scope**
