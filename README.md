@@ -1,7 +1,7 @@
 # Navio2 Quadcopter Autopilot Stack (Raspberry Pi 4)
 
 Navio2-based quadcopter control stack for Raspberry Pi 4. 
-Frame: F450. Motors: T-Motor MN3508 (KV). 
+Frame: Quad F450. Motors: T-Motor MN3508 (KV). 
 This repo contains flight-control experiments, sensor drivers, IMU filters, logging, and analysis tools.
 
 <p align="center">
